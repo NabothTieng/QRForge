@@ -1,6 +1,9 @@
+#!/usr/bin/env python3
+
 import qrcode
 from qrcode.constants import ERROR_CORRECT_H
 from PIL import Image, ImageDraw
+import sys
 import os
 import re
 
