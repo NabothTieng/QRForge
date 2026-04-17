@@ -108,13 +108,8 @@ Open source. Free to use, modify, and distribute.
 Feel free to reach out!
 
 
-<a href="mailto:nabothtieng@gmail.com">
-  <img src="https://www.svgrepo.com/show/452213/gmail.svg" width="68" height="68" alt="Email"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/naboth-tieng-113aa1243">
-  <img src="https://www.svgrepo.com/show/452051/linkedin.svg" width="68" height="68" alt="LinkedIn"/>
-</a>
+<a href="mailto:nabothtieng@gmail.com"><img src="https://www.svgrepo.com/show/452213/gmail.svg" width="68" height="68" alt="Email"/>
+</a><a href="https://www.linkedin.com/in/naboth-tieng-113aa1243"><img src="https://www.svgrepo.com/show/452051/linkedin.svg" width="68" height="68" alt="LinkedIn"/></a>
 
 ---
 
