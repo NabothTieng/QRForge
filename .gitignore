@@ -4,9 +4,6 @@ venv/
 env/
 ENV/
 
-# Output folder - generated QR codes
-output/
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -37,3 +34,6 @@ MANIFEST
 .idea/
 *.swp
 *.swo
+
+# Output folder - generated QR codes
+output/
