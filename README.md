@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="logo.png" width="200"/>
+  <img src="logo.PNG" width="200"/>
   <p>Generate beautiful and customizable QR codes.</p>
 </div>
 
