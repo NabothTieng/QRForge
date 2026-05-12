@@ -1,4 +1,11 @@
-# QRForge — Reader Guide
+
+<div align="center">
+  <img src="logo.png" width="200"/>
+  <p>Generate beautiful and customizable QR codes.</p>
+</div>
+
+
+# Reader Guide
 
 A clean, interactive Python tool to generate professional QR codes with custom colors, rounded logo backgrounds, and high error correction.
 
@@ -107,11 +114,12 @@ Open source. Free to use, modify, and distribute.
 
 Feel free to reach out!
 
-
+<div align="center">
 <a href="mailto:nabothtieng@gmail.com"><img src="https://www.svgrepo.com/show/452213/gmail.svg" width="68" height="68" alt="Email"/>
 </a><a href="https://www.linkedin.com/in/naboth-tieng-113aa1243"><img src="https://www.svgrepo.com/show/452051/linkedin.svg" width="68" height="68" alt="LinkedIn"/></a>
 
 ---
 
-*Made with ❤️ using QRForge*
+<p>Made with ❤️ using QRForge</p>
+</div>
 
